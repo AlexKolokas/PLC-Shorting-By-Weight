@@ -49,3 +49,5 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 - **ShortingByWeightCode.pdf** : it's the plc code
 - **ShortingByWeightHmi.pdf** : it's the HMI settings
 - **ShortingByWeightVideo.mkv** : it's a demonstration of how it works
+- **shortingByWeight.factoryio** : it's the factory io file 
+- **shorting by weight** : it's the folder for the tia portal
