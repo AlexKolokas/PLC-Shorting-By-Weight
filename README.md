@@ -46,5 +46,6 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 
 ## Files
 
-- **Shorting By Weight/ShortingByWeightCode.pdf** : it's the plc code
-- **Shorting By Weight/ShortingByWeightHmi.pdf** : it's the HMI settings
+- **ShortingByWeightCode.pdf** : it's the plc code
+- **ShortingByWeightHmi.pdf** : it's the HMI settings
+- **ShortingByWeightVideo.mkv** : it's a demonstration of how it works
