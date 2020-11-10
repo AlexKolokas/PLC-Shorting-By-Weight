@@ -30,7 +30,7 @@ You can use the `HMI screen` to choose the recipe and to check which recipe is o
     **CPU**: `1211C DC/DC/DC`,
 
     **Description** : Work memory 50 KB; 24VDC power supply with DI6 x 24VDC SINK/ SOURCE, DQ4 x 24VDC and AI2 on
-board;3 high-speed counters (expandable with digital signal board) and 4 pulse outputs on board; signal board expands on-board I/O; up to 3 communication modules for serial communication; 0.04 ms/1000 instructions; PROFINET interface for programming, HMI and PLC to PLC communication
+board;3 high-speed counters (expandable with digital signal board) and 4 pulse outputs on board; signal board expands on-board I/O; up to 3 communication modules for serial communication; 0.04 ms/1000 instructions; PROFINET interface for programming, HMI and PLC to PLC communication.
 
 
 - **HMI**: `KTP700 Basic PN`
